@@ -9,8 +9,11 @@
 我們這邊使用的是ID3算法，利用信息的增益程度來選擇特徵，會用到Entropy(亂度)來計算Information Gain(信息增益)。
 
 * Entropy
+
 ![](https://hackmd.io/_uploads/BJuaDoftn.png)
+
 * Information Gain
+
 ![](https://hackmd.io/_uploads/Sy9r_jfY2.png)
 
 
